@@ -1,2 +1,17 @@
+#logo {
+  height:70px;
+}
 
+#banner {
+  color: #cbd7f3;
+  background-image: url('images/kitt_profile.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+#order {
+  background-image: url('images/kitt_face.jpg');
+  background-size: cover;
+  height: 100vh;
+}
 
